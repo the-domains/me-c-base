@@ -3,15 +3,15 @@
     <channel>
         <title><![CDATA[ME@c-base]]></title>
         <description><![CDATA[ME@c-base]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/me-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Sep 2015 21:37:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Sep 2015 21:43:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/me-c-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Foo BAR!</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6ff6c1f-a3c0-4462-b6a8-7b394fc6c5a6.jpg">]]></description>
             <guid isPermaLink="false">2528617e-7fd4-45c5-af0e-b56e9faba06e</guid>
-            <pubDate>Fri, 04 Sep 2015 21:36:58 GMT</pubDate>
+            <pubDate>Fri, 04 Sep 2015 21:43:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
