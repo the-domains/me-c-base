@@ -4,8 +4,15 @@
         <description><![CDATA[ME@c-base]]></description>
         <link>https://thegrid.ai/me-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 22:33:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 22:33:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/me-c-base/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab1c1c08-d973-4171-8716-2c95d419cb85.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab1c1c08-d973-4171-8716-2c95d419cb85.jpg</link>
+            <guid isPermaLink="false">24194276-60ea-4a51-8b8a-49ba84f57dec</guid>
+            <pubDate>Wed, 17 Aug 2016 22:33:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47db6303-9013-4893-aa69-1298998838ee.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.flickr.com/photos/ihmis-suski/15173863371/in/album-72157647356160172/</link>
             <guid isPermaLink="false">bde619f8-86ac-4974-b4fe-5836df57d4a9</guid>
             <pubDate>Mon, 21 Sep 2015 08:32:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hacker Tent City: a Photo Tour of Chaos Communication Camp 2015]]></title>
-            <description><![CDATA[<article><h1>Hacker Tent City: a Photo Tour of Chaos Communication Camp 2015</h1><p>Our tent isn't even up and my friendly neighbor has already hacked his electronic name badge and, in honor of us, changed its display to a ASCII version of the VICE logo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0770e556d6db4be62e72f9af045fd7981af66a0e.jpg"></article>]]></description>
-            <link>http://motherboard.vice.com/read/hacker-tent-city-a-photo-tour-of-chaos-communication-camp-2015</link>
-            <guid isPermaLink="false">f4b83855-9e50-47bf-bea7-068f6cdfc759</guid>
-            <pubDate>Fri, 04 Sep 2015 22:35:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
