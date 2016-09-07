@@ -1,19 +1,18 @@
-analytics: {}
-style: the-composer
+layout_spectrum: 0.842342
+typography_spectrum: 0.04674646910279989
 color:
   brandColors:
-    - '#25231d'
-    - '#4c4b45'
-    - '#d9d8d6'
-    - '#a8a7a1'
-    - '#928d88'
-  brandStrength: 0.5
-  lightness: 0.5
-  rhythmicContrast: 0.5
-  saturation: 0.5
+    - '#010101'
+    - '#1F0A09'
+    - '#691815'
+    - '#420806'
+    - '#662A2A'
+  brandStrength: 0.7418343147728592
+  lightness: 0.050690022530034184
+  rhythmicContrast: 0.09784167818725109
+  saturation: 0.13933612499386072
+analytics: {}
 cta: {}
-layout_spectrum: 0.842342
 name: ME@c-base
 opengraph: {}
 purpose: []
-typography_spectrum: 0.17718
