@@ -1,13 +1,13 @@
 ---
 title: Silicone molding
-dateModified: '2016-10-03T15:53:37.522Z'
+datePublished: '2016-10-03T15:58:13.662Z'
+dateModified: '2016-10-03T15:58:08.795Z'
 publisher: {}
 author: []
 inFeed: true
+hasPage: true
 description: ''
 via: {}
-datePublished: '2016-10-03T15:54:50.747Z'
-hasPage: true
 starred: false
 sourcePath: _posts/2016-10-03-silicone-molding.md
 url: silicone-molding/index.html
@@ -22,3 +22,4 @@ _context: 'http://schema.org'
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ceab82f-0dcc-498a-8f5a-44066913d495.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2ceea12-f72b-4c71-aad1-466853c6b064.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68495028-ab29-4915-939a-9a04b63e0fb2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/233e4db8-5652-455c-9162-48bfc0461e95.jpg)
