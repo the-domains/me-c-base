@@ -4,9 +4,16 @@
         <description><![CDATA[ME@c-base]]></description>
         <link>https://thegrid.ai/me-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Sep 2016 10:59:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2016 15:55:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/me-c-base/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 17 Aug 2016 22:34:07 GMT</pubDate>
+        <pubDate>Mon, 03 Oct 2016 15:54:51 GMT</pubDate>
+        <item>
+            <title><![CDATA[Silicone molding]]></title>
+            <description><![CDATA[<article><h1>Silicone molding</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d115920-368f-4615-8a6f-9d1ae392f046.jpg"></article>]]></description>
+            <link>https://thegrid.ai/me-c-base/silicone-molding/index.html</link>
+            <guid isPermaLink="false">57942fa5-42a6-4945-87ce-e4eb0364aaa2</guid>
+            <pubDate>Mon, 03 Oct 2016 15:54:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/03d32bd8-4a37-4249-88c2-b575f3e51ac2.jpg">]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/KcflL6a6t2I</link>
             <guid isPermaLink="false">d3217fa2-1b7d-46da-90c2-a9a29c007b5b</guid>
             <pubDate>Wed, 24 Feb 2016 15:47:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drydock wrench.]]></title>
-            <description><![CDATA[<article><h1>Drydock wrench.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4dbfa69043a91c98e7e862fb6a4fb5cc28e5468a.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/ihmis-suski/15173867561/in/album-72157647356160172/</link>
-            <guid isPermaLink="false">8be1d714-0d83-4c5d-a6c8-061fe3e7ac97</guid>
-            <pubDate>Mon, 21 Sep 2015 08:44:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
