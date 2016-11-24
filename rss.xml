@@ -4,9 +4,16 @@
         <description><![CDATA[ME@c-base]]></description>
         <link>https://thegrid.ai/me-c-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 05 Oct 2016 21:50:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2016 11:22:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/me-c-base/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Oct 2016 15:58:21 GMT</pubDate>
+        <pubDate>Thu, 24 Nov 2016 11:22:35 GMT</pubDate>
+        <item>
+            <title><![CDATA[Finding the best setup for a DIY wood gas stove.]]></title>
+            <description><![CDATA[<article><h1>Finding the best setup for a DIY wood gas stove.</h1><p>I’m on a quest to make a really nice wood gas burner from tin cans. The first version has been built and improvements for the next one are already noted. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c621163-4009-42c2-8ae3-1a2e06058097.jpg"></article>]]></description>
+            <link>https://thegrid.ai/me-c-base/finding-the-best-setup-for-a-diy-wood-gas-stove/index.html</link>
+            <guid isPermaLink="false">2f132c6b-7d7e-4901-943e-85ebec035226</guid>
+            <pubDate>Thu, 24 Nov 2016 11:22:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Silicone molding]]></title>
             <description><![CDATA[<article><h1>Silicone molding</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d115920-368f-4615-8a6f-9d1ae392f046.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/me-c-base/baf00d5d-9170-4b16-bf30-914d12a479ed/index.html</link>
             <guid isPermaLink="false">baf00d5d-9170-4b16-bf30-914d12a479ed</guid>
             <pubDate>Wed, 24 Feb 2016 16:05:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Second test of vacuum forming table.]]></title>
-            <description><![CDATA[<article><h1>Second test of vacuum forming table.</h1><p>Longer explanation in ijons blog (only in german, sorry)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8371efa3c8a98e492f6793f9dfe3b755fa847ddd.jpg"></article>]]></description>
-            <link>https://youtu.be/KcflL6a6t2I</link>
-            <guid isPermaLink="false">d3217fa2-1b7d-46da-90c2-a9a29c007b5b</guid>
-            <pubDate>Wed, 24 Feb 2016 15:47:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
