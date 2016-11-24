@@ -1,16 +1,16 @@
-layout_spectrum: 0.842342
-typography_spectrum: 0.8824141877703369
+layout_spectrum: 0.4070909956599226
+typography_spectrum: 0.9696315488929279
 color:
   brandColors:
-    - '#010101'
-    - '#1F0A09'
-    - '#691815'
-    - '#420806'
-    - '#662A2A'
-  brandStrength: 0.7418343147728592
-  lightness: 0.050690022530034184
-  rhythmicContrast: 0.09784167818725109
-  saturation: 0.13933612499386072
+    - '#000201'
+    - '#EDDFD2'
+    - '#7E4A6E'
+    - '#0259E6'
+    - '#5C866F'
+  brandStrength: 0.4463058918567909
+  lightness: 0.1842198194319954
+  rhythmicContrast: 0.6855720465912456
+  saturation: 0.32221128821474415
 analytics: {}
 cta: {}
 name: ME@c-base
